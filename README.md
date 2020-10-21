@@ -8,5 +8,5 @@ h2o: 3.28.0.1-1-2.2 <br />
 transmogrifai: 0.6.1
 
 # Related library
-https://github.com/h2o/h2o
+https://github.com/h2o/h2o <br />
 https://github.com/salesforce/TransmogrifAI
