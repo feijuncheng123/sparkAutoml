@@ -1,7 +1,7 @@
 # spark ml with h2o and transmogrifai
 Training model on spark with h2o and transmogrifai,using automl and single model
 
-## test environment
+# test environment
 scala: 2.11.12 <br />
 spark: 2.2.0 <br />
 h2o: 3.28.0.1-1-2.2 <br />
